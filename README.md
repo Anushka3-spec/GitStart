@@ -4,5 +4,9 @@
 ## Let's help you submit your first Pull Request!
 
 Follow the instructions [here](https://gitstart.tech) to get started. 
-Hi All, Hope you're all great.
+Hi All, 
+
+Hope you're all great.
+
 Nice to meet you all.
+
